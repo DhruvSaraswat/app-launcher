@@ -24,4 +24,5 @@ If you wish to run this AppleScript at the hit of a keystroke -
   <li>Go to System Preferences -> Keyboard -> Shortcuts -> Services. You should see the Automator file you saved at step 7 listed. Select it.</li>
   <li>Double click on "Add Shortcut" and press the shortcut keys you wish to assign to the applescript. <b>Take care not to assign a shortcut already assigned to some other action on MacOS !</b></li>
 </ol>
-Voila ! Click the KeyBoard shortcut from any window and watch the maghic happen.
+
+Voila ! Click the KeyBoard shortcut from any window and watch the magic happen.
