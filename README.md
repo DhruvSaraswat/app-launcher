@@ -20,9 +20,9 @@ Step 3 - Select `Quick Action`.
 !["Select Quick Action from Automator Screenshot"](images/Step_1_Quick_Action.png)
 
 Step 4 - Select "no input" from the "Workflow receives" drop-down list.
-!["Select No Input from Automator Screenshot"](images/Step_2_No_Input_In_Workflow.png)
 
 Step 5 - Select "Launch Application" from the list of Actions and drag it to the right hand side.
+!["Select No Input from Automator Screenshot"](images/Step_2_No_Input_In_Workflow.png)
 
 Step 6 - Select the application which you saved at step 1.
 !["Select Application Screenshot"](images/Step_3_Select_Application.png)
