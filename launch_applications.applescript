@@ -13,3 +13,5 @@ tell application "IntelliJ IDEA" to activate
 tell application "Terminal" to activate
 
 tell application "BBEdit" to activate
+
+tell application "Sourcetree" to activate
